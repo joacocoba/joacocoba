@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**joacocoba/joacocoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    const Joacocoba = {
+      fullName: "Joaquin Caubarrere",
+      profession: "Full Stack Dev 🧑‍💻", 
+      currentlyBased: "Buenos Aires📍 - Argentina 🇦🇷",
+      spokenLanguages: ["español 🧉🥟", "english ☕💂"],
+      techStack: {
+        code: JavaScript
+        tools: {
+          frontEnd: [React, Redux, CSS, Material-UI],
+          backEnd: [Node, Express, Sequelize, Mongoose],
+          databases: {
+            sql: PostgreSQL,
+            nosql: MongoDB
+          },
+          deployment: [Heroku, Vercel, Netifly],
+          versionControl: Git
+        },
+      },
+      currentlyLearning: [React-Native, TypeScript, AWS, Solidity ],
+      todolist: [SocketIO, Firebase, Next, Nest, Docker, GraphQL, Angular, 
+                 Vue, Mocha, Jest],
+    };
